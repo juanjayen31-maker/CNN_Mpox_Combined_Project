@@ -1,0 +1,9 @@
+[project]
+name = "study-monkeypox-classification"
+version = "0.1.0"
+description = "Klasifikasi Citra Lesi Kulit Monkeypox (MSLD v2.0) menggunakan LAB-CLAHE dan EVA-02"
+readme = "README.md"
+requires-python = ">=3.10"
+
+[tool.ruff]
+line-length = 100

@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+kagglehub
+scikit-learn
+torch
+torchvision

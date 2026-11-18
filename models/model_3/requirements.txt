@@ -1,0 +1,14 @@
+torch
+torchvision
+timm
+numpy
+pandas
+scikit-learn
+opencv-python-headless
+matplotlib
+seaborn
+pillow
+tqdm
+kagglehub
+pytest
+ruff
